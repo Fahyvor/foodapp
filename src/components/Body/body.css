@@ -1,0 +1,40 @@
+#body-container{
+   background-color: rgba(33, 46, 59, 0.9);
+   padding-top: .5rem;
+   /* background-image: url(../../assets/background.jpeg); */
+}
+
+#background-image{
+   opacity: 0.6;
+   position: absolute;
+   /* height: 100vh; */
+   z-index: -10;
+   margin-top: -34.2rem;
+}
+
+#image-right {
+   width: 500px;
+   height: 500px;
+}
+
+#place_order{
+    background-color: var(--color-primary);
+    border: 0px solid;
+    border-radius: 15px;
+    /* width: 12vw; */
+}
+
+.contact-us{
+    border: 0px solid;
+    border-radius: 15px;
+    /* width: 12vw; */
+}
+
+.company-name{
+    font-size: 5rem;
+}
+
+.company-goals{
+    margin-top: -1rem;
+    font-size: 2.2rem;
+}
