@@ -1,0 +1,8 @@
+.vision-container{
+    background-color: var(--color-bg);
+}
+
+.empty-line-vision{
+    width: 18vw;
+    height: 1vh;
+}

@@ -1,0 +1,11 @@
+.order-container {
+    background-color: var(--color-bg);
+}
+
+.order-image{
+    border-radius: 50%;
+    width: 600px;
+    height: 600px;
+    border-radius: 2px solid var(--color-white);
+    overflow: hidden;
+}

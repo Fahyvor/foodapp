@@ -15,7 +15,7 @@ const Navbar = () => {
       <div><a>About</a></div>
       <div><a>Contact</a></div>
       <div><a>Vision</a></div>
-      <div><a>Value</a></div>
+      <div><a>Values</a></div>
       <div><a>Testimonials</a></div>
      </div>
     </div>
