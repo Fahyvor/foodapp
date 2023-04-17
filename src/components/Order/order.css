@@ -2,10 +2,20 @@
     background-color: var(--color-bg);
 }
 
-.order-image{
-    border-radius: 50%;
-    width: 600px;
-    height: 600px;
-    border-radius: 2px solid var(--color-white);
+.order-image-container {
+    width: 30vw;
+    aspect-ratio: 1/1;
     overflow: hidden;
+    border-radius: 50%;
+}
+
+.order-image{
+    /* width: 32vw; */
+    overflow: hidden;
+    margin-left: -5rem;
+    border-radius: 50%;
+}
+
+.order-text {
+    font-size: 6rem;
 }
