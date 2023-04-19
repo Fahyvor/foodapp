@@ -60,7 +60,7 @@ h1 {
 }
 
 a {
-    color: var(--color-bg) !important;
+    /* color: var(--color-bg) !important; */
     transition: var(--transition);
     text-decoration: none;
 }

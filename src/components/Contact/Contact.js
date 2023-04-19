@@ -14,12 +14,12 @@ const Contact = () => {
       <p>+1234567890</p>
      </div>
      <div className='gap-4 d-flex justify-content-end mx-4'>
-      <a href=''><BsFacebook size={40} color="--color-bg"/></a>
-      <a href=''><AiFillTwitterCircle size={40}/></a>
-      <a href=''><AiFillInstagram size={40}/></a>
-      <a href=''><RiWhatsappFill size={40}/></a>
-      <a href=''><MdEmail size={40}/></a>
-      <a href=''><BsLinkedin size={40}/></a>
+      <a href=''><BsFacebook size={40} className='icon-class'/></a>
+      <a href=''><AiFillTwitterCircle size={40} className='icon-class'/></a>
+      <a href=''><AiFillInstagram size={40} className='icon-class'/></a>
+      <a href=''><RiWhatsappFill size={40} className='icon-class'/></a>
+      <a href=''><MdEmail size={40} className='icon-class'/></a>
+      <a href=''><BsLinkedin size={40} className='icon-class'/></a>
      </div>
     </div>
   )

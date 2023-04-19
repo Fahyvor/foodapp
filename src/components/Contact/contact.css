@@ -6,3 +6,7 @@
     font-weight: 900;
     font-size: 4rem;
 }
+
+.icon-class {
+    color: var(--color-bg) !important;
+}
