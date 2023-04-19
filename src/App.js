@@ -5,6 +5,7 @@ import Testimonials from './components/Testimonials/Testimonials'
 import Values from './components/Values/values'
 import Vision from './components/Vision/Vision'
 import Order from './components/Order/Order'
+import Table from './components/Table/Table'
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
       <Vision />
       <Testimonials />
       <Order />
+      <Table />
     </div>
   )
 }

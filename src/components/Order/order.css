@@ -3,14 +3,12 @@
 }
 
 .order-image-container {
-    width: 30vw;
+    width: 35vw;
     aspect-ratio: 1/1;
-    overflow: hidden;
     border-radius: 50%;
 }
 
 .order-image{
-    /* width: 32vw; */
     overflow: hidden;
     margin-left: -5rem;
     border-radius: 50%;

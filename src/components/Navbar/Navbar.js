@@ -4,7 +4,7 @@ import Logo from '../../assets/Food.png'
 
 const Navbar = () => {
   return (
-    <div class='container mx-4 d-flex bg-white
+    <div class='container-fluid px-5 py-1 d-flex bg-white position-fixed
     gap-5 mt-1 align-items-center justify-content-between' id='nav-container'>
      <div id='logo-container' className='d-flex align-items-center gap-3'>
       <img src={Logo} id='logo' />
