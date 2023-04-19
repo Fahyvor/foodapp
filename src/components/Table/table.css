@@ -1,0 +1,14 @@
+.table-container {
+    gap: 13vw !important;
+}
+
+.table-image{
+    border-radius: 70px;
+    width: 30vw !important;
+    aspect-ratio: 1/1;
+    box-shadow: 1px 4px 8px 6px;
+}
+
+.book-table {
+    font-size: 9rem;
+}

@@ -4,7 +4,7 @@ import { BsPatchCheckFill } from 'react-icons/bs'
 
 const Vision = () => {
   return (
-    <div className='vision-container pt-1 pb-4'>
+    <div className='vision-container pt-5 pb-4' id='vision'>
      <div className='mt-4 text-center text-white'>
       <h1>Why Choose Us</h1>
       <div className='empty-line-vision mx-auto bg-white text-white'></div>

@@ -11,12 +11,12 @@ const Navbar = () => {
       <h6>Food App</h6>
      </div>
      <div class='d-flex gap-4'>
-      <div><a>Home</a></div>
-      <div><a>About</a></div>
-      <div><a>Contact</a></div>
-      <div><a>Vision</a></div>
-      <div><a>Values</a></div>
-      <div><a>Testimonials</a></div>
+      <div><a href='#'>Home</a></div>
+      <div><a href='#about'>About</a></div>
+      <div><a href='#contact'>Contact</a></div>
+      <div><a href='#vision'>Vision</a></div>
+      <div><a href='#values'>Values</a></div>
+      <div><a href='#testimonials'>Testimonials</a></div>
      </div>
     </div>
   )

@@ -14,6 +14,10 @@
 .empty-line{
     background-color: var(--color-bg);
     color: var(--color-bg);
-    width: 12vw;
+    width: 27vw;
     height: 1vh;
+}
+
+.core-values {
+    font-size: 2.5rem !important;
 }

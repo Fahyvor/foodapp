@@ -6,6 +6,9 @@ import Values from './components/Values/values'
 import Vision from './components/Vision/Vision'
 import Order from './components/Order/Order'
 import Table from './components/Table/Table'
+import About from './components/About/About'
+import Contact from './components/Contact/Contact'
+import Footer from './components/Footer/Footer'
 
 
 const App = () => {
@@ -18,6 +21,9 @@ const App = () => {
       <Testimonials />
       <Order />
       <Table />
+      <About />
+      <Contact />
+      <Footer />
     </div>
   )
 }

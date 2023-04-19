@@ -15,7 +15,9 @@ const Body = () => {
       </div>
       <div id='order-buttons' className='d-flex gap-4 mx-2'>
        <div className='br-4 align-items-center
-       p-3 px-5 text-white' id='place_order' ><a>Place Order</a></div>
+       p-3 px-5 text-white' id='place_order' ><a className='text-white'>
+        Place Order</a>
+        </div>
        <div className='align-items-center bg-white p-3 px-5 contact-us'><a>Contact Us</a></div>
       </div>
      </div>

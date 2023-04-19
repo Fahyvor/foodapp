@@ -1,0 +1,14 @@
+.about-container {
+    background-color: var(--color-bg);
+    color: var(--color-white);
+}
+
+.about-line {
+    width: 10vw !important;
+    height: 1vh !important;
+    margin-top: -1vh !important;
+}
+
+.about-text {
+    font-size: 2rem;
+}
