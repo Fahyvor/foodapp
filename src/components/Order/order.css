@@ -17,3 +17,9 @@
 .order-text {
     font-size: 6rem;
 }
+
+@media screen and (max-width: 600px) {
+    .order-container {
+        flex-direction: column !important;
+    }
+}

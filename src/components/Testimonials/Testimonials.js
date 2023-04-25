@@ -3,7 +3,7 @@ import './testimonials.css'
 
 const Testimonials = () => {
   return (
-    <div className='pt-5 pb-4' id='testimonials'>
+    <div className='pt-5 container-fluid pb-4' id='testimonials'>
      <div className='text-center'>
       <h1>Testimonies From Our Clients</h1>
      </div>

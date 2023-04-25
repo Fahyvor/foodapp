@@ -21,3 +21,10 @@
 .core-values {
     font-size: 2.5rem !important;
 }
+
+
+@media screen and (max-width: 600px) {
+    .container-for-values {
+        flex-direction: column !important;
+    }
+}

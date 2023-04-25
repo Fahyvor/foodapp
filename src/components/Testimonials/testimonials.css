@@ -17,3 +17,9 @@
     aspect-ratio: 1/1;
     margin-top: -1.5vh;
 }
+
+@media screen and (max-width: 600px) {
+    .container-for-testimonies{
+        flex-direction: column !important;
+    }
+}

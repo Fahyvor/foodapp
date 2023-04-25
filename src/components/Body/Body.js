@@ -14,14 +14,14 @@ const Body = () => {
        <p className='company-goals'>Lorem Ipsum, Lorem Ipsum</p>
       </div>
       <div id='order-buttons' className='d-flex gap-4 mx-2'>
-       <div className='br-4 align-items-center
+       <div className='align-items-center
        p-3 px-5 text-white' id='place_order' ><a className='text-white'>
         Place Order</a>
         </div>
        <div className='align-items-center bg-white p-3 px-5 contact-us'><a>Contact Us</a></div>
       </div>
      </div>
-     <div id='right-side'>
+     <div id='right-side align-items-center justify-content-center'>
      <img src={Food} id='image-right'/>
      </div>
     </div>

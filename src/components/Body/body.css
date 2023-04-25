@@ -7,14 +7,13 @@
 #background-image{
    opacity: 0.6;
    position: absolute;
-   /* height: 100vh; */
    z-index: -10;
    margin-top: -34.2rem;
 }
 
 #image-right {
-   width: 500px;
-   height: 500px;
+   width: 40vw;
+   aspect-ratio: 1/1;
 }
 
 #place_order{
@@ -35,4 +34,36 @@
 .company-goals{
     margin-top: -1rem;
     font-size: 2.2rem;
+}
+
+@media screen and (max-width: 600px) {
+    #body-container {
+        flex-direction: column !important;
+    }
+
+    .company-name {
+        font-size: 3.5rem;
+        margin-top: 8vh !important;
+        text-align: center !important;
+    }
+
+    .company-goals {
+        font-size: 1.3rem !important;
+        margin-top: -0.5rem !important;
+        text-align: center;
+    }
+
+    #place_order {
+        padding-left: 1.5rem !important;
+        padding-right: 1.5rem !important;
+    }
+
+    #order-buttons {
+        padding-left: auto !important;
+        margin-left: auto !important;
+    }
+
+    #image-right {
+        width: 60vw !important;
+    }
 }
