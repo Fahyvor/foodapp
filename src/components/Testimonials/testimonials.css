@@ -21,5 +21,14 @@
 @media screen and (max-width: 600px) {
     .container-for-testimonies{
         flex-direction: column !important;
+        gap: 2rem !important;
+    }
+
+    .empty-line-testimonies {
+        width: 75vw !important;
+    }
+
+    .testimonies-image-container {
+        width: 28vw !important;
     }
 }

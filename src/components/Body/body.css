@@ -60,10 +60,20 @@
 
     #order-buttons {
         padding-left: auto !important;
-        margin-left: auto !important;
+        margin-left: 5vw !important;
+    }
+
+    .right-side{
+        margin-top: 2vh !important;
+        justify-content: center !important;
     }
 
     #image-right {
         width: 60vw !important;
+        margin-left: 15vw !important;
+    }
+
+    #background-image {
+        width: 100vw !important;
     }
 }

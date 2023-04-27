@@ -10,3 +10,17 @@
 .icon-class {
     color: var(--color-bg) !important;
 }
+
+@media screen and (max-width: 600px) {
+    .contact-header {
+    font-size: 2rem !important;
+    }
+
+    .contact-text {
+        font-size: 0.7rem !important;
+    }
+
+    .icon-class {
+        justify-content: center !important;
+    }
+}

@@ -26,5 +26,21 @@
 @media screen and (max-width: 600px) {
     .container-for-values {
         flex-direction: column !important;
+        gap: 2rem !important;
+        width: auto !important;
+        padding: 2rem !important;
+    }
+
+    .empty-line {
+        width: 85vw !important;
+    }
+
+    .values-container-middle {
+        height: 38vh !important; 
+        font-size: 1.5rem !important;
+    }
+
+    .values-container {
+        font-size: 1.5rem !important;
     }
 }

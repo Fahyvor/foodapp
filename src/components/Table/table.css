@@ -16,7 +16,12 @@
 }
 
 @media screen and (max-width: 600px) {
-    .table-container {
-        flex-direction: column !important;
+
+    .book-table {
+        font-size: 2.5rem !important;
+    }
+
+    .table-image {
+        width: 40vw !important;
     }
 }

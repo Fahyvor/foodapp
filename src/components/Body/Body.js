@@ -21,7 +21,7 @@ const Body = () => {
        <div className='align-items-center bg-white p-3 px-5 contact-us'><a>Contact Us</a></div>
       </div>
      </div>
-     <div id='right-side align-items-center justify-content-center'>
+     <div className='right-side align-items-center justify-content-center'>
      <img src={Food} id='image-right'/>
      </div>
     </div>

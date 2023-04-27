@@ -12,3 +12,14 @@
 .about-text {
     font-size: 2rem;
 }
+
+@media screen and (max-width: 600px) {
+    .about-text {
+        font-size: 0.8rem !important;
+    }
+
+    .about-line {
+        width: 25vw !important;
+        height: 0.1wh !important;
+    }
+}

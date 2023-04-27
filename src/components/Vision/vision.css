@@ -6,3 +6,12 @@
     width: 18vw;
     height: 1vh;
 }
+
+@media screen and (max-width: 600px) {
+
+    .vision-elements {
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+}
