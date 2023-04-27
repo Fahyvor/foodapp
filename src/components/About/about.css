@@ -15,11 +15,13 @@
 
 @media screen and (max-width: 600px) {
     .about-text {
-        font-size: 0.8rem !important;
+        font-size: 1rem !important;
+        letter-spacing: 0.3vw !important;
+        width: 90vw !important;
     }
 
     .about-line {
         width: 25vw !important;
-        height: 0.1wh !important;
+        height: 0.5vh !important;
     }
 }

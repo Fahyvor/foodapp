@@ -11,64 +11,64 @@ const Vision = () => {
      </div>
      <div className='vision-rows d-flex justify-content-around mt-5'>
       <div className='d-flex gap-3
-      align-items-baseline mx-4 vision-elements
+       mx-4 vision-elements
       text-white'>
         <BsPatchCheckFill color='white'/>
-       <h4>Lorem Ipsum</h4>
+       <h4 className='vision-element'>Lorem Ipsum</h4>
       </div>
       <div className='d-flex gap-3
-      align-items-baseline mx-4 vision-elements
+       mx-4 vision-elements
       text-white'>
         <BsPatchCheckFill color='white'/>
-       <h4>Lorem Ipsum</h4>
+       <h4 className='vision-element'>Lorem Ipsum</h4>
       </div>
       <div className='d-flex gap-3
-      align-items-baseline mx-4 vision-elements
+       mx-4 vision-elements
       text-white'>
         <BsPatchCheckFill color='white'/>
-       <h4>Lorem Ipsum</h4>
-      </div>
-     </div>
-
-     <div className='vision-rows d-flex justify-content-around mt-5'>
-      <div className='d-flex gap-3
-      align-items-baseline mx-4 vision-elements
-      text-white'>
-        <BsPatchCheckFill color='white'/>
-       <h4>Lorem Ipsum</h4>
-      </div>
-      <div className='d-flex gap-3
-      align-items-baseline mx-4 vision-elements
-      text-white'>
-        <BsPatchCheckFill color='white'/>
-       <h4>Lorem Ipsum</h4>
-      </div>
-      <div className='d-flex gap-3
-      align-items-baseline mx-4 vision-elements
-      text-white'>
-        <BsPatchCheckFill color='white'/>
-       <h4>Lorem Ipsum</h4>
+       <h4 className='vision-element'>Lorem Ipsum</h4>
       </div>
      </div>
 
      <div className='vision-rows d-flex justify-content-around mt-5'>
       <div className='d-flex gap-3
-      align-items-baseline mx-4 vision-elements
+       mx-4 vision-elements
       text-white'>
         <BsPatchCheckFill color='white'/>
-       <h4>Lorem Ipsum</h4>
+       <h4 className='vision-element'>Lorem Ipsum</h4>
       </div>
       <div className='d-flex gap-3
-      align-items-baseline mx-4 vision-elements
+       mx-4 vision-elements
       text-white'>
         <BsPatchCheckFill color='white'/>
-       <h4>Lorem Ipsum</h4>
+       <h4 className='vision-element'>Lorem Ipsum</h4>
       </div>
       <div className='d-flex gap-3
-      align-items-baseline mx-4 vision-elements
+       mx-4 vision-elements
       text-white'>
         <BsPatchCheckFill color='white'/>
-       <h4>Lorem Ipsum</h4>
+       <h4 className='vision-element'>Lorem Ipsum</h4>
+      </div>
+     </div>
+
+     <div className='vision-rows d-flex justify-content-around mt-5'>
+      <div className='d-flex gap-3
+       mx-4 vision-elements
+      text-white'>
+        <BsPatchCheckFill color='white'/>
+       <h4 className='vision-element'>Lorem Ipsum</h4>
+      </div>
+      <div className='d-flex gap-3
+       mx-4 vision-elements
+      text-white'>
+        <BsPatchCheckFill color='white'/>
+       <h4 className='vision-element'>Lorem Ipsum</h4>
+      </div>
+      <div className='d-flex gap-3
+       mx-4 vision-elements
+      text-white'>
+        <BsPatchCheckFill color='white'/>
+       <h4 className='vision-element'>Lorem Ipsum</h4>
       </div>
      </div>
     </div>

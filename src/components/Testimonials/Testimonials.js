@@ -11,7 +11,8 @@ const Testimonials = () => {
      <div className='container-for-testimonies
      mt-4 d-flex justify-content-around'>
      <div className='align-items-center mx-4
-     p-4 testimonies-container'>
+     p-4 testimonies-container' data-aos="fade-up" data-aos-delay="500" 
+     data-aos-duration="1500">
       <div className='testimonies-image-container mx-auto'>
 
       </div>
@@ -27,7 +28,8 @@ const Testimonials = () => {
      </div>
 
      <div className='align-items-center mx-4
-     p-4 testimonies-container'>
+     p-4 testimonies-container' data-aos="fade-up" data-aos-delay="500" 
+     data-aos-duration="1500">
       <div className='testimonies-image-container mx-auto'>
 
       </div>
@@ -43,7 +45,8 @@ const Testimonials = () => {
      </div>
 
      <div className='align-items-center mx-4
-     p-4 testimonies-container'>
+     p-4 testimonies-container' data-aos="fade-up" data-aos-delay="500" 
+     data-aos-duration="1500">
       <div className='testimonies-image-container mx-auto'>
 
       </div>
@@ -59,7 +62,8 @@ const Testimonials = () => {
      </div>
 
      <div className='align-items-center mx-4
-     p-4 testimonies-container'>
+     p-4 testimonies-container' data-aos="fade-up" data-aos-delay="500" 
+     data-aos-duration="1500">
       <div className='testimonies-image-container mx-auto'>
 
       </div>

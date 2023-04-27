@@ -7,11 +7,23 @@
     height: 1vh;
 }
 
+.vision-elements {
+    align-items: baseline;
+}
+
 @media screen and (max-width: 600px) {
 
     .vision-elements {
         flex-direction: column !important;
         align-items: center !important;
         justify-content: center !important;
+    }
+
+    .empty-line-vision {
+        width: 50vw !important;
+    }
+
+    .vision-element {
+        font-size: 0.8rem !important;
     }
 }

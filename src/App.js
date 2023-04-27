@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import Body from './components/Body/Body'
 import Navbar from './components/Navbar/Navbar'
 import Testimonials from './components/Testimonials/Testimonials'
@@ -9,9 +9,17 @@ import Table from './components/Table/Table'
 import About from './components/About/About'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
 
 
 const App = () => {
+  useEffect(() => {
+    AOS.init();
+    AOS.refresh();
+  }, []);
+  
   return (
     <div>
       <Navbar />

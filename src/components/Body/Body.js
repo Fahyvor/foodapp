@@ -6,7 +6,8 @@ import Background from '../../assets/background.jpeg'
 const Body = () => {
   return (
    <>
-    <div id='body-container' className='d-flex p-2 pt-4 justify-content-around py-4'>
+    <div id='body-container' className='d-flex p-2 pt-4
+    data-aos-fade-up data-aos-duration-500 justify-content-around py-4'>
      <div id='left-side' className='my-auto'>
       <h1 className='text-white company-name'>Lorem Ipsum</h1>
       <div className='text-white flex-column'>

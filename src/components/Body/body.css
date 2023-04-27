@@ -38,12 +38,12 @@
 
 @media screen and (max-width: 600px) {
     #body-container {
-        flex-direction: column !important;
+        flex-direction: column-reverse !important;
     }
 
     .company-name {
         font-size: 3.5rem;
-        margin-top: 8vh !important;
+        /* margin-top: 8vh !important; */
         text-align: center !important;
     }
 
@@ -71,9 +71,11 @@
     #image-right {
         width: 60vw !important;
         margin-left: 15vw !important;
+        margin-top: 4vh !important;
     }
 
     #background-image {
         width: 100vw !important;
+        height: 65vh !important;
     }
 }

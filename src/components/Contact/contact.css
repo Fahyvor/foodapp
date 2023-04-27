@@ -13,11 +13,11 @@
 
 @media screen and (max-width: 600px) {
     .contact-header {
-    font-size: 2rem !important;
+    font-size: 3rem !important;
     }
 
     .contact-text {
-        font-size: 0.7rem !important;
+        font-size: 0.9rem !important;
     }
 
     .icon-class {

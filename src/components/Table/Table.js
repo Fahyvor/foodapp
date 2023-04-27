@@ -9,7 +9,8 @@ const Table = () => {
       <div className='table-left text-center text-white'>
         <a className='text-center book-table'><h1 className='book-table'>Book A <br /> Table</h1></a>
       </div>
-      <div className='table-right'>
+      <div className='table-right' data-aos="fade-up" data-aos-delay="500" 
+      data-aos-duration="1500">
       <img src={TableImage} className='table-image'/>
       </div>
     </div>

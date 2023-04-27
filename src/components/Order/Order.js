@@ -7,7 +7,8 @@ const Order = () => {
     <div className='container-fluid order-container d-flex
      pt-3 pb-3 align-items-center
     justify-content-around'>
-     <div className='order-image-container mt-3 mx-3'>
+     <div className='order-image-container mt-3 mx-3' data-aos="fade-up" data-aos-delay="500" 
+      data-aos-duration="1500">
       <img src={OrderImage} className='order-image mt-1'/>
      </div>
      <div className='order-writeup'>
