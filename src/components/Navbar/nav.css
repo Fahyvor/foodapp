@@ -36,7 +36,7 @@ a{
 
     .mobile-nav-links {
         position: absolute !important;
-        z-index: 10 !important;
+        /* z-index: 3 !important; */
         width: 50vw !important;
         margin-left: -20vw !important;
         backdrop-filter: blur(15px);
@@ -44,7 +44,18 @@ a{
         gap: 3rem !important;
     }
 
-    .nav-mobile-links {
+    .nav-links {
         margin-top: 3vh !important;
+        color: var(--color-bg);
+    }
+
+    .cancel-button {
+        align-items: end !important;
+        z-index: initial;
+        /* position: absolute !important; */
+    }
+
+    .nav-link-text {
+        color: var(--color-bg);
     }
 }
