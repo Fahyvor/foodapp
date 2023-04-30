@@ -17,7 +17,7 @@ const values = () => {
        <p>Lorem Ipsum</p>
        <p>Lorem Ipsum</p>
       </div>
-      <div className='p-3 px-5 br-3 bg-white text-center values-container-middle'
+      <div className='p-3 px-5 br-3 bg-white text-center mt-5 values-container-middle'
       data-aos="fade-up" data-aos-delay="500" 
       data-aos-duration="1500">
        <p>Lorem Ipsum</p>

@@ -43,7 +43,6 @@
 
     .company-name {
         font-size: 3.5rem;
-        /* margin-top: 8vh !important; */
         text-align: center !important;
     }
 
@@ -76,6 +75,14 @@
 
     #background-image {
         width: 100vw !important;
-        height: 65vh !important;
+        height: 100vh !important;
+    }
+
+    .contact-us {
+        font-size: 0.8rem !important;
+    }
+
+    #place_order{
+        font-size: 0.8rem !important;
     }
 }
